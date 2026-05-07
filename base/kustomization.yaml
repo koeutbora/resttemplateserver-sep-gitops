@@ -10,5 +10,5 @@ resources:
 
 images:
   - name: resttemplateserver-sep
-    newName: 210.90.24.172:8080/restproject/leeyoungkon/resttemplateserver-sep
+    newName: 210.90.24.172:8080/project-sep/leeyoungkon/resttemplateserver-sep
     newTag: latest
