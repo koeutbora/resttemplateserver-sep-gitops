@@ -10,4 +10,4 @@ resources:
 images:
 - name: resttemplateserver-sep
   newName: 210.90.24.172:8080/project-sep/leeyoungkon/resttemplateserver-sep
-  newTag: 6c4a161b3fc8089899cc9bebbe5f113c3475d648
+  newTag: 3cc4b892299291e1c43a4680bfbddb4847524acd
