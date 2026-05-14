@@ -1,0 +1,6 @@
+apiVersion: kustomize.config.k8s.io/v1beta1
+kind: Kustomization
+images:
+- name: resttemplateserver-sep
+  newName: 210.90.24.172:8080/project-sep/leeyoungkon/resttemplateserver-sep
+  newTag: f8fee2610dcf51a25a441cdce062aecaef62710b
